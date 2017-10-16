@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace DesignPatternAssignment6
 {
-    abstract class LeafNode : Component
+    class LI:CompositeNode
     {
+        public LI()
+        {
+            this.Name = "Li Tag";
+        }
     }
 }

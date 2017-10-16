@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace DesignPatternAssignment6
 {
-    abstract class LeafNode : Component
+    class DIV:CompositeNode
     {
+        public DIV()
+        {
+            this.Name = "DIV Tag";
+        }
     }
 }

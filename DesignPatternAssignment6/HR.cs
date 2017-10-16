@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace DesignPatternAssignment6
 {
-    abstract class LeafNode : Component
+    class HR:LeafNode
     {
+        public HR(){
+            this.Name = "HR Tag";
+        }
     }
 }

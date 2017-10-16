@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace DesignPatternAssignment6
 {
-    abstract class LeafNode : Component
+    class IMG:LeafNode
     {
+        public IMG()
+        {
+            this.Name = "IMG Tag";
+        }
     }
 }

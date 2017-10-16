@@ -10,17 +10,13 @@ namespace DesignPatternAssignment6
     {
         static void Main(string[] args)
         {
-            CompositeNode Html = new CompositeNode
-            {
-                Name = "HTML"
-            };
-            Html.AddComponent(new LeafNode{ Name="a" });
-            CompositeNode Div = new CompositeNode
-            {
-                Name = "Div"
-            };
-            Div.AddComponent(new LeafNode { Name="b" });
-            Html.AddComponent(Div);
+            HTML Html = new HTML();
+            Html.AddComponent(new DIV());
+            LI li = new LI();
+            li.AddComponent(new IMG());
+            li.AddComponent(new BR());
+            li.AddComponent(new HR());
+            Html.AddComponent(li);
             Html.GetHTML();
             //Html.GetInnerHTML();
             Console.ReadLine();

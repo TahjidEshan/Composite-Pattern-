@@ -8,9 +8,10 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>DesignPatternAssignment6</RootNamespace>
     <AssemblyName>DesignPatternAssignment6</AssemblyName>
-    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -42,11 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BR.cs" />
     <Compile Include="Component.cs" />
     <Compile Include="CompositeNode.cs" />
+    <Compile Include="DIV.cs" />
+    <Compile Include="HR.cs" />
+    <Compile Include="HTML.cs" />
     <Compile Include="IComponent.cs" />
+    <Compile Include="IMG.cs" />
     <Compile Include="IOperations.cs" />
     <Compile Include="LeafNode.cs" />
+    <Compile Include="LI.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

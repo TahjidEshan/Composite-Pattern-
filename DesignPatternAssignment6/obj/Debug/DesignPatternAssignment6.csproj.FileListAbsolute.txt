@@ -5,3 +5,9 @@ C:\Users\atahj\source\repos\DesignPatternAssignment6\DesignPatternAssignment6\ob
 C:\Users\atahj\source\repos\DesignPatternAssignment6\DesignPatternAssignment6\obj\Debug\DesignPatternAssignment6.csproj.CoreCompileInputs.cache
 C:\Users\atahj\source\repos\DesignPatternAssignment6\DesignPatternAssignment6\obj\Debug\DesignPatternAssignment6.exe
 C:\Users\atahj\source\repos\DesignPatternAssignment6\DesignPatternAssignment6\obj\Debug\DesignPatternAssignment6.pdb
+C:\Users\ta.mostafa\Documents\Visual Studio 2015\Projects\Composite-Pattern-\DesignPatternAssignment6\bin\Debug\DesignPatternAssignment6.exe.config
+C:\Users\ta.mostafa\Documents\Visual Studio 2015\Projects\Composite-Pattern-\DesignPatternAssignment6\obj\Debug\DesignPatternAssignment6.exe
+C:\Users\ta.mostafa\Documents\Visual Studio 2015\Projects\Composite-Pattern-\DesignPatternAssignment6\obj\Debug\DesignPatternAssignment6.pdb
+C:\Users\ta.mostafa\Documents\Visual Studio 2015\Projects\Composite-Pattern-\DesignPatternAssignment6\bin\Debug\DesignPatternAssignment6.exe
+C:\Users\ta.mostafa\Documents\Visual Studio 2015\Projects\Composite-Pattern-\DesignPatternAssignment6\bin\Debug\DesignPatternAssignment6.pdb
+C:\Users\ta.mostafa\Documents\Visual Studio 2015\Projects\Composite-Pattern-\DesignPatternAssignment6\obj\Debug\DesignPatternAssignment6.csprojResolveAssemblyReference.cache

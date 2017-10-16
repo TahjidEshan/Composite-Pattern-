@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DesignPatternAssignment6
 {
-    class CompositeNode : Component, IOperations
+    abstract class CompositeNode : Component, IOperations
     {
         protected ICollection<IComponent> _innerHTML = new List<IComponent>();
         public override void GetInnerHTML()
